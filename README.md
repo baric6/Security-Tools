@@ -7,6 +7,10 @@ This is just a collecton of free tools I have came across doing cyber security
 https://www.colasoft.com/capsa-free/ -> Capsa Free is a network analyzer freeware for Ethernet monitoring, troubleshooting and analysis.
 <br/>
 https://www.nirsoft.net/ -> NirSoft web site provides a unique collection of small and useful freeware utilities
+<br/>
+https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview -> TCPView -> scan tcp packets on the network
+<br/>
+https://www.wireshark.org/download.html -> wireshark
 
 ### Linux
 https://github.com/p0f/p0f -> P0f is a tool that utilizes an array of sophisticated, purely passive traffic
@@ -14,6 +18,7 @@ fingerprinting mechanisms to identify the players behind any incidental TCP/IP
 communications (often as little as a single normal SYN) without interfering in
 any way.
 <br/>
+https://www.tcpdump.org/ -> TCPDump
 
 # Enumeration
 ### PowerShell
@@ -33,7 +38,7 @@ login time, idle times, office location, and the last time they received or read
 
 # Vuln Scanning
 ### nmap scripts
-https://github.com/vulnersCom -> goos site for nmap scripts
+https://github.com/vulnersCom -> good site for nmap scripts
 
 # System Hacking
 ### Windows password cracking
@@ -52,6 +57,9 @@ rtgen(linux) -> Rainbow table cracking
 medusa : ssh password cracking tool
 <br/>
 xhydra : ssh password cracking tool
+  
+### AD password spray cracker
+https://github.com/byt3bl33d3r/CrackMapExec -> crackmapexec 
 
 ### Priv Escalation
 https://trinityhome.org/ -> trinity rescue kit -> password help
@@ -101,3 +109,17 @@ stegalyzerss
 virtual steganographic laboratory
 <br/>
 stegDetect
+  
+# Malware
+JPS virus maker 3.0 <br/>
+trojan hourse construction kit <br/>
+httprat.exe <br/>
+prorat <br/>
+crypter tool
+  
+  
+  
+  
+  
+  
+  
