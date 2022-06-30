@@ -73,6 +73,8 @@ Please consider that each version works only with some operating systems. For ex
 https://www.kali.org/tools/ophcrack/ -> Ophcrack -> cracker
 
 ### Rootkit tools
+https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Rootkits.md
+<br/>
 greyfish
 <br/>
 sirefef/zeroaccess
@@ -116,8 +118,12 @@ trojan hourse construction kit <br/>
 httprat.exe <br/>
 prorat <br/>
 crypter tool
-  
-  
+
+
+
+
+# Useful tool colection links
+https://www.cisa.gov/free-cybersecurity-services-and-tools
   
   
   
