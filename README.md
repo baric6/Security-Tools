@@ -119,6 +119,12 @@ httprat.exe <br/>
 prorat <br/>
 crypter tool
 
+# Reverse Engineering
+https://github.com/dnSpy/dnSpy -> DNspy -> helps you RE .net assemblies 
+<br/>
+IDA -> Binary Reverse Engineering
+<br/>
+Ghydra -> NSA Binary Reverse Engineering
 
 
 
