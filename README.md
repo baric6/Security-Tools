@@ -7,21 +7,27 @@ clamAV
 # Scanning and Networking
 
 ### Windows
+Capsa<br/>
 https://www.colasoft.com/capsa-free/ -> Capsa Free is a network analyzer freeware for Ethernet monitoring, troubleshooting and analysis.
 <br/>
+NirSoft<br/>
 https://www.nirsoft.net/ -> NirSoft web site provides a unique collection of small and useful freeware utilities
 <br/>
-https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview -> TCPView -> scan tcp packets on the network
+NirSoft <br/>
+https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview -> NirSoft scan tcp packets on the network
 <br/>
-https://www.wireshark.org/download.html -> wireshark
+wireshark<br/>
+https://www.wireshark.org/download.html
 
 ### Linux
+P0f<br/>
 https://github.com/p0f/p0f -> P0f is a tool that utilizes an array of sophisticated, purely passive traffic
 fingerprinting mechanisms to identify the players behind any incidental TCP/IP
 communications (often as little as a single normal SYN) without interfering in
 any way.
-<br/>
-https://www.tcpdump.org/ -> TCPDump
+<br/><br/>
+TCPDump <br/>
+https://www.tcpdump.org/ 
 
 # Enumeration
 ### PowerShell
@@ -45,8 +51,8 @@ https://github.com/vulnersCom -> good site for nmap scripts
 
 # System Hacking
 ### Windows password cracking
-https://www.refog.com/ -> refog keylogger
-
+refog keylogger <br/>
+https://www.refog.com/
 (trial)l0phtcrack : password audit tool
 
 cain and able tool <br/>
@@ -62,10 +68,12 @@ medusa : ssh password cracking tool
 xhydra : ssh password cracking tool
   
 ### AD password spray cracker
-https://github.com/byt3bl33d3r/CrackMapExec -> crackmapexec 
+crackmapexec <br/>
+https://github.com/byt3bl33d3r/CrackMapExec 
 
 ### Priv Escalation
-https://trinityhome.org/ -> trinity rescue kit -> password help
+trinity rescue kit<br/>
+https://trinityhome.org/ -> password help
 <br/><br/>
 erd commander -> reboot help -> ERD Commander is a tool that was originally developed by Winternals (Windows Sysinternals). 
 Microsoft acquired Winternals and its assets on July 18, 2006. Microsoft included this tool, firstly, in its Microsoft Desktop Optimization Pack 
@@ -73,7 +81,8 @@ Microsoft acquired Winternals and its assets on July 18, 2006. Microsoft include
 Please consider that each version works only with some operating systems. For example, DaRT 5.0 only works with Windpws XP and Windows Server 2003,
 6.0 works with Windows Vista and Windows Server 2008.
 <br/><br/>
-https://www.kali.org/tools/ophcrack/ -> Ophcrack -> cracker
+Ophcrack <br/>
+https://www.kali.org/tools/ophcrack/-> cracker
 
 ### Rootkit tools
 https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Rootkits.md
@@ -121,10 +130,15 @@ trojan hourse construction kit <br/>
 httprat.exe <br/>
 prorat <br/>
 crypter tool
+  
+### Ransomware
+PSRansom <br/>
+https://github.com/JoelGMSec/PSRansom
 
 # Reverse Engineering
-https://github.com/dnSpy/dnSpy -> DNspy -> helps you RE .net assemblies 
-<br/>
+DNspy <br/>
+https://github.com/dnSpy/dnSpy -> helps you RE .net assemblies 
+<br/><br/>
 IDA -> Binary Reverse Engineering
 <br/>
 Ghydra -> NSA Binary Reverse Engineering
