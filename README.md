@@ -35,6 +35,9 @@ gather data about port 135/msrpc
 <br/>
 https://resources.oreilly.com/examples/9780596510305/tree/master/tools/rpctools
 
+# Spoofing
+SMAC -> windows spoof MAC address
+
 # Enumeration
 ### PowerShell
 https://ss64.com/nt/net-view.html -> 
