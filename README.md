@@ -37,6 +37,10 @@ RPCDump
 gather data about port 135/msrpc
 <br/>
 https://resources.oreilly.com/examples/9780596510305/tree/master/tools/rpctools
+<br/><br/>
+EtterCap -> Ettercap is a free and open source network security tool for man-in-the-middle attacks on a LAN
+<br/>
+https://www.ettercap-project.org/
 
 # Enumeration
 ### PowerShell
@@ -57,6 +61,11 @@ login time, idle times, office location, and the last time they received or read
 # Vuln Scanning
 ### nmap scripts
 https://github.com/vulnersCom -> good site for nmap scripts
+<br/><br/>
+find devices in promiscuous mode
+<br/>
+https://nmap.org/nsedoc/scripts/sniffer-detect.html
+
 
 # System Hacking
 ### Windows password cracking
