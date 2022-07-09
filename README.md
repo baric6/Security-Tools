@@ -4,6 +4,9 @@ This is just a collecton of free tools I have came across doing cyber security
 # Open sourced Anti virus
 clamAV
 
+# Spoofing
+SMAC -> windows spoof MAC address
+
 # Scanning and Networking
 
 ### Windows
@@ -35,9 +38,6 @@ gather data about port 135/msrpc
 <br/>
 https://resources.oreilly.com/examples/9780596510305/tree/master/tools/rpctools
 
-# Spoofing
-SMAC -> windows spoof MAC address
-
 # Enumeration
 ### PowerShell
 https://ss64.com/nt/net-view.html -> 
@@ -62,6 +62,7 @@ https://github.com/vulnersCom -> good site for nmap scripts
 ### Windows password cracking
 refog keylogger <br/>
 https://www.refog.com/
+<br/><br/>
 (trial)l0phtcrack : password audit tool
 
 cain and able tool <br/>
