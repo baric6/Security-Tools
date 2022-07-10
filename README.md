@@ -154,6 +154,22 @@ crypter tool
 PSRansom <br/>
 https://github.com/JoelGMSec/PSRansom
 
+### Botnet tools
+Shark
+<br/>
+Plugbot
+<br/>
+Poison Ivy
+<br/>
+Jolt2
+<br/>
+trin00
+<br/>
+targa
+<br/>
+LOIC
+
+
 # Reverse Engineering
 DNspy <br/>
 https://github.com/dnSpy/dnSpy -> helps you RE .net assemblies 
