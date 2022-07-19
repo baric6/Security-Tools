@@ -42,6 +42,16 @@ EtterCap -> Ettercap is a free and open source network security tool for man-in-
 <br/>
 https://www.ettercap-project.org/
 
+# IDS and IPS
+### IDS
+Snort comunity <br/>
+https://www.snort.org/
+<br/><br/>
+security Onion <br/>
+https://securityonionsolutions.com/
+<br/><br/>
+### IPS 
+
 # Enumeration
 ### PowerShell
 https://ss64.com/nt/net-view.html -> 
@@ -65,6 +75,14 @@ https://github.com/vulnersCom -> good site for nmap scripts
 find devices in promiscuous mode
 <br/>
 https://nmap.org/nsedoc/scripts/sniffer-detect.html
+
+### tools
+GreenBone -> open sourced vuln scanner <b/>
+https://www.greenbone.net/en/about-greenbone/
+<b/><b/>
+openVas -> open sourced vuln scanner <br/>
+<b/><b/>
+https://www.openvas.org/
 
 
 # System Hacking
@@ -178,7 +196,13 @@ IDA -> Binary Reverse Engineering
 <br/>
 Ghydra -> NSA Binary Reverse Engineering
 
-
+# forensics
+volatility -> reads snapshots of ram/voluntary memory<br/>
+https://www.volatilityfoundation.org/
+<br/><br/>
+Autospy -> open img/iso files of operating systems <br/>
+https://www.sleuthkit.org/index.php
+<br/><br/>
 
 # Useful tool collection links
 https://www.cisa.gov/free-cybersecurity-services-and-tools
