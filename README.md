@@ -44,13 +44,16 @@ https://www.ettercap-project.org/
 
 # IDS and IPS
 ### IDS
-Snort comunity <br/>
+Snort community <br/>
 https://www.snort.org/
 <br/><br/>
 security Onion <br/>
 https://securityonionsolutions.com/
 <br/><br/>
 ### IPS 
+crowdSec -> community driven IPS <br/>
+https://www.crowdsec.net/
+<br/><br/>
 
 # Enumeration
 ### PowerShell
