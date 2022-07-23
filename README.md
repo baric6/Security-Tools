@@ -75,6 +75,22 @@ it returns information such as the user's home directory,
 login time, idle times, office location, and the last time they received or read mail.
 
 # Vuln Scanning
+### nmap commands
+syn scan<br/>
+nmap -sS 127.0.0.1
+<br/><br/>
+send fragmented packet<br/>
+nmap -f 127.0.0.1
+<br/><br/>
+decoy scan<br/>
+nmap -D RND:25 127.0.0.1
+<br/><br/>
+make custom packet size<br/>
+nmap 127.0.0.1 -mtu 128
+<br/><br/>
+syn firewalk<br/>
+nmap --script=firewalk 127.0.0.1
+<br/><br/>
 ### nmap scripts
 https://github.com/vulnersCom -> good site for nmap scripts
 <br/><br/>
