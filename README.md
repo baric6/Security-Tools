@@ -91,6 +91,9 @@ nmap 127.0.0.1 -mtu 128
 syn firewalk<br/>
 nmap --script=firewalk 127.0.0.1
 <br/><br/>
+firewall bypass scan<br/>
+nmap --script=firewall-bypass 127.0.0.1
+<br/><br/>
 ### nmap scripts
 https://github.com/vulnersCom -> good site for nmap scripts
 <br/><br/>
