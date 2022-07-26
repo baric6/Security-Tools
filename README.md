@@ -233,6 +233,7 @@ https://www.sleuthkit.org/index.php
 KFSensor<br/>
 HoneyBot<br/>
 HoneyDrive<br/>
+HoneyD<br/>
 
 
 # Useful tool collection links
