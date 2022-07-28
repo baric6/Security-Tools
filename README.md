@@ -71,7 +71,22 @@ Wikto -> is a security scanner for Windows web servers. It checks for errors in 
 Brutus -> is a password cracking tool that can make over 50 simultaneous target connections.
 <br/><br/>
 COREImpact Pro -> is a penetration testing tool that checks for vulnerabilities in web applications, network systems, wireless networks, mobile devices, and defense systems such as IDS or IPS.
-
+<br/><br/>
+WebScarab -> is a tool for analyzing applications that use HTTP and HTTPS protocols.
+<br/><br/>
+Wikto -> is a security scanner for Windows web servers. It checks for errors in code and monitors HTTP requests and responses.
+<br/><br/>
+Hackalert -> is a service that detects hidden malware in websites and advertisements.
+<br/><br/>
+N-Stalker -> is a suite of assessment checks that can improve the overall security of your web applications. It contains assessment checks for code injection, cross-site scripting, parameter tampering, and web server vulnerabilities
+<br/><br/>
+VampireScan -> is a tool that allows users to test their web infrastructure and application for vulnerabilities. It provides insight about addressing risk vulnerabilities on a low, medium, or high scale.
+<br/><br/>
+dotDefender -> is a software web application firewall that inspects HTTP and HTTPS traffic. It also detects and blocks SQL injection attacks.
+<br/><br/>
+WebInspect -> is a web application security assessment tool that helps identify known and unknown vulnerabilities within the Web Application layer
+<br/><br/>
+Netsparker -> runs automated scans looking for vulnerabilities susceptible to SQL injection, cross-site scripting, and remote code injection.
 
 
 # IDS and IPS
