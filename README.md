@@ -45,6 +45,14 @@ EtterCap -> Ettercap is a free and open source network security tool for man-in-
 <br/>
 https://www.ettercap-project.org/
 
+# website security
+dirbuster -> site enumerator<br/>
+<br/><br/>
+owasp Zap -> web vuln testing<br/>
+<br/><br/>
+WinHTrack -> site cloner<br/>
+<br/><br/>
+
 # IDS and IPS
 ### IDS
 Snort community <br/>
@@ -87,14 +95,32 @@ nmap -D RND:25 127.0.0.1
 <br/><br/>
 make custom packet size<br/>
 nmap 127.0.0.1 -mtu 128
-<br/><br/>
+  
+### nmap scripts
 syn firewalk<br/>
 nmap --script=firewalk 127.0.0.1
 <br/><br/>
 firewall bypass scan<br/>
 nmap --script=firewall-bypass 127.0.0.1
 <br/><br/>
-### nmap scripts
+grab http server header  
+nmap --script=http-server-header 127.0.0.1
+<br/><br/>
+grab chrono<br/>
+nmap --script=http-chrono 127.0.0.1
+<br/><br/>
+grab http headers<br/>
+nmap --script=http-headers 127.0.0.1
+<br/><br/>
+grab http errors<br/>
+nmap --script=http-errors 127.0.0.1
+<br/><br/>
+grab malware host<br/>
+nmap --script=http-malware-host 127.0.0.1
+<br/><br/>
+grab comments on page<br/>
+nmap --script=http-comments-displayer 127.0.0.1
+<br/><br/>
 https://github.com/vulnersCom -> good site for nmap scripts
 <br/><br/>
 find devices in promiscuous mode
