@@ -88,6 +88,8 @@ WebInspect -> is a web application security assessment tool that helps identify 
 <br/><br/>
 Netsparker -> runs automated scans looking for vulnerabilities susceptible to SQL injection, cross-site scripting, and remote code injection.
 
+### SQL Injection
+SQL Power Injector tool -> A tool used to find SQL injections on a web page
 
 # IDS and IPS
 ### IDS
