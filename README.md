@@ -46,12 +46,33 @@ EtterCap -> Ettercap is a free and open source network security tool for man-in-
 https://www.ettercap-project.org/
 
 # website security
-dirbuster -> site enumerator<br/>
+dirbuster -> site enumerator
 <br/><br/>
-owasp Zap -> web vuln testing<br/>
+owasp Zap -> web vuln testing
 <br/><br/>
-WinHTrack -> site cloner<br/>
+WinHTrack -> site cloner
 <br/><br/>
+Wfetch -> is a tool that targets websites that have Active Server Pages (ASP) or wireless protocols.
+<br/><br/>
+TCH-Hydra -> is a password cracking tool that supports several different protocols.
+<br/><br/>
+Immunity CANVAS -> provides an exploit development framework for penetration testers.
+<br/><br/>
+Arachni -> is open-source and helps penatration testers evaluate the security of their web applications.
+<br/><br/>
+Syhunt Dynamic -> can automate security testing and help to guard web infrastructure against known security threats.
+<br/><br/>
+Hackalert -> is a cloud-based subscription service that detects hidden malware in websites and advertisements.
+<br/><br/>
+MBSA, or Microsoft Baseline Security Analyzer, -> is a patch management tool that checks for updates to the operating system, database components, and SQL server. It also scans for any errors or vulnerabilities in the configuration settings.
+<br/><br/>
+Wikto -> is a security scanner for Windows web servers. It checks for errors in code and monitors HTTP requests and responses.
+<br/><br/>
+Brutus -> is a password cracking tool that can make over 50 simultaneous target connections.
+<br/><br/>
+COREImpact Pro -> is a penetration testing tool that checks for vulnerabilities in web applications, network systems, wireless networks, mobile devices, and defense systems such as IDS or IPS.
+
+
 
 # IDS and IPS
 ### IDS
