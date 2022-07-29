@@ -309,5 +309,19 @@ https://github.com/rmusser01/Infosec_Reference
 https://code.nsa.gov/
   
   
-  
-  
+### exploit database links
+https://www.exploit-db.com/
+<br/>
+https://www.rapid7.com/db/
+<br/>
+https://cxsecurity.com/exploit/
+<br/>
+https://www.vulnerability-lab.com/
+<br/>
+https://0day.today/
+<br/>
+https://packetstormsecurity.com/files/tags/exploit/
+<br/>
+https://securitytrails.com/blog/google-hacking-techniques
+<br/>
+
