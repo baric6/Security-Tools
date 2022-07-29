@@ -166,11 +166,12 @@ find devices in promiscuous mode
 https://nmap.org/nsedoc/scripts/sniffer-detect.html
 
 ### tools
-GreenBone -> open sourced vuln scanner <b/>
+GreenBone -> open sourced vuln scanner
+<br/>
 https://www.greenbone.net/en/about-greenbone/
-<b/><b/>
+<br/><br/>
 openVas -> open sourced vuln scanner <br/>
-<b/><b/>
+<br/>
 https://www.openvas.org/
 
 
