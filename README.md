@@ -45,6 +45,18 @@ EtterCap -> Ettercap is a free and open source network security tool for man-in-
 <br/>
 https://www.ettercap-project.org/
 
+# wireless hacking
+### bluetooth tools
+blueview
+<br/>
+BTscanner
+<br/>
+btlejuice
+<br/>
+bluediving
+<br/>
+super bluetooth hack
+
 # website security
 dirbuster -> site enumerator
 <br/><br/>
