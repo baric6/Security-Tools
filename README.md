@@ -11,8 +11,12 @@ clamAV
 
 
 ### firewall evade
-firewalk -> linux tool to see what protocals will pass through firewalls
-
+**firewalk**
+---
+<br/>
+Firewalk is an active reconnaissance network security tool that attempts to determine what layer 4 protocols a  given IP forwarding device will pass. Firewalk  works  by sending out TCP or UDP packets with a TTL one greater than the targeted gateway.  If the gateway allows the traffic, it will forward the packets to the next hop where they will expire and elicit an ICMP_TIME_EXCEEDED  message.  If the gateway hostdoes not allow the traffic, it will likely drop the packets on  the floor and we will see no response.
+<br/>
+http://packetfactory.openwall.net/projects/firewalk/
 
 
 
