@@ -6,22 +6,31 @@ This is just a collecton of free tools I have came across doing cyber security
 
 # Open sourced Anti virus
 clamAV
+<br/>
+is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
+<br/>
+http://www.clamav.net/
 
 
 
 
 ### firewall evade
-**firewalk**
----
+FIREWALK
 <br/>
-Firewalk is an active reconnaissance network security tool that attempts to determine what layer 4 protocols a  given IP forwarding device will pass. Firewalk  works  by sending out TCP or UDP packets with a TTL one greater than the targeted gateway.  If the gateway allows the traffic, it will forward the packets to the next hop where they will expire and elicit an ICMP_TIME_EXCEEDED  message.  If the gateway hostdoes not allow the traffic, it will likely drop the packets on  the floor and we will see no response.
+is an active reconnaissance network security tool that attempts to determine what layer 4 protocols a  given IP forwarding device will pass. Firewalk  works  by sending out TCP or UDP packets with a TTL one greater than the targeted gateway.  If the gateway allows the traffic, it will forward the packets to the next hop where they will expire and elicit an ICMP_TIME_EXCEEDED  message.  If the gateway hostdoes not allow the traffic, it will likely drop the packets on  the floor and we will see no response.
 <br/>
 http://packetfactory.openwall.net/projects/firewalk/
+<br/>
+https://www.kali.org/tools/firewalk/
 
 
 
 # Spoofing
-SMAC -> windows spoof MAC address
+SMAC
+<br/>
+is a powerful, yet easy to use MAC Address Changer (Spoofer) for Windows 10, 8, 7, VISTA, 2008, 2003, XP, and 2000 systems, regardless of whether the network card manufacturers allow this option or not. SMAC is developed by Certified Professionals (CISSP, CISA, CIPP, and MCSE). It is also great for MAC Address Lookup.
+<br/>
+https://smac-tool.com/
 
 
 
@@ -30,17 +39,42 @@ SMAC -> windows spoof MAC address
 # Scanning and Networking
 
 ### Windows
-Capsa<br/>
-https://www.colasoft.com/capsa-free/ -> Capsa Free is a network analyzer freeware for Ethernet monitoring, troubleshooting and analysis.
+Capsa
+<br/>
+is a network analyzer freeware for Ethernet monitoring, troubleshooting and analysis
+<br/>
+https://www.colasoft.com/capsa-free/ 
 <br/><br/>
-NirSoft<br/>
-https://www.nirsoft.net/ -> NirSoft web site provides a unique collection of small and useful freeware utilities
+
+tcpView
+<br/>
+is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections
+<br/>
+https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview 
 <br/><br/>
-tcpView <br/>
-https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview -> NirSoft scan tcp packets on the network
-<br/><br/>
-wireshark<br/>
+
+wireshark
+<br/>
+is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development
+<br/>
 https://www.wireshark.org/download.html
+<br/><br/>
+
+NirSoft
+<br/>
+NirSoft web site provides a unique collection of small and useful freeware utilities
+<br/>
+https://www.nirsoft.net/
+<br/><br/>
+
+
+
+
+
+
+
+
+
 
 ### Linux
 P0f<br/>
