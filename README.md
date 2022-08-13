@@ -210,60 +210,75 @@ https://github.com/vanhauser-thc/thc-hydra
 https://www.kali.org/tools/hydra/
 <br/><br/>
 
-Immunity CANVAS -> provides an exploit development framework for penetration testers.
+Immunity CANVAS
 <br/>
+makes available hundreds of exploits, an automated exploitation system, and a comprehensive, reliable exploit development framework to penetration testers and security professionals worldwide
 <br/>
 https://immunityinc.com/products/canvas/
 <br/><br/>
 
-Arachni -> is open-source and helps penatration testers evaluate the security of their web applications.
+Arachni
 <br/>
+is open-source and helps penatration testers evaluate the security of their web applications.
+provides first-class coverage, vulnerability detection and accuracy for modern web application technologies
+<br/>
+https://www.arachni-scanner.com/
+<br/><br/>
+
+Syhunt Dynamic
+<br/>
+is composed by a deep crawler able to fully map a website structure and an automated injector able to adapt, mutate, analyze and test the web application response to thousands of different web attacks often carried by real-world adversaries,
+<br/>
+https://www.syhunt.com/en/?n=Products.SyhuntDynamic
+<br/><br/>
+
+Hackalert
+<br/>
+is a cloud-based Web malware monitoring and detection service that protects and immediately notifies you if your website is infected with malicious code. Such malicious code can be used by hackers to target your end-users' Personal Computers with Drive-by Downloads.
+<br/>
+https://www.pictordesign.com/products-services/81-security-products/59-hackalert-malware-monitoring
+<br/>
+https://www.hackalert.io/
+<br/><br/>
+
+MBSA, or Microsoft Baseline Security Analyzer 
+<br/>
+is a patch management tool that checks for updates to the operating system, database components, and SQL server. It also scans for any errors or vulnerabilities in the configuration settings.
 <br/>
 <br/><br/>
 
-Syhunt Dynamic -> can automate security testing and help to guard web infrastructure against known security threats.
+Wikto 
 <br/>
+Nikto vuln scaner for windows
+is a security scanner for Windows web servers. It checks for errors in code and monitors HTTP requests and responses.
 <br/>
-<br/><br/>
-
-Hackalert -> is a cloud-based subscription service that detects hidden malware in websites and advertisements.
+https://github.com/sensepost/wikto
 <br/>
+https://sensepost-wikto.software.informer.com/2.1/
 <br/>
-<br/><br/>
-
-MBSA, or Microsoft Baseline Security Analyzer, -> is a patch management tool that checks for updates to the operating system, database components, and SQL server. It also scans for any errors or vulnerabilities in the configuration settings.
-<br/>
-<br/>
-<br/><br/>
-
-Wikto -> is a security scanner for Windows web servers. It checks for errors in code and monitors HTTP requests and responses.
-<br/>
-<br/>
+https://sensepost.com/research/wikto
 <br/><br/>
 
 Brutus -> is a password cracking tool that can make over 50 simultaneous target connections.
 <br/>
+In cryptanalysis and computer security, password cracking is the process of recovering passwords from data that have been stored in or transmitted by a computer system. A common approach (brute-force attack) is to try guesses repeatedly for the password and check them against an available cryptographic hash of the password.
+<br/>
+https://www.darknet.org.uk/2006/09/brutus-password-cracker-download-brutus-aet2zip-aet2/
+<br/><br/>
+
+(paid)COREImpact Pro
+<br/>
+is a penetration testing tool that checks for vulnerabilities in web applications, network systems, wireless networks, mobile devices, and defense systems such as IDS or IPS.
 <br/>
 <br/><br/>
 
-COREImpact Pro -> is a penetration testing tool that checks for vulnerabilities in web applications, network systems, wireless networks, mobile devices, and defense systems such as IDS or IPS.
+WebScarab 
 <br/>
+is a Web Application Review tool. It sprang from the designs of the people inhabiting the WebAppSec list run from SourceForge, for a powerful, free, open tool for reviewing web applications for security vulnerabilities. a tool for analyzing applications that use HTTP and HTTPS protocols.
 <br/>
-<br/><br/>
-
-WebScarab -> is a tool for analyzing applications that use HTTP and HTTPS protocols.
+http://dawes.za.net/rogan/webscarab/#current
 <br/>
-<br/>
-<br/><br/>
-
-Wikto -> is a security scanner for Windows web servers. It checks for errors in code and monitors HTTP requests and responses.
-<br/>
-<br/>
-<br/><br/>
-
-Hackalert -> is a service that detects hidden malware in websites and advertisements.
-<br/>
-<br/>
+https://www.kali.org/tools/webscarab/
 <br/><br/>
 
 N-Stalker -> is a suite of assessment checks that can improve the overall security of your web applications. It contains assessment checks for code injection, cross-site scripting, parameter tampering, and web server vulnerabilities
