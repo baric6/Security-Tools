@@ -77,79 +77,205 @@ https://www.nirsoft.net/
 
 
 ### Linux
-P0f<br/>
-https://github.com/p0f/p0f -> P0f is a tool that utilizes an array of sophisticated, purely passive traffic
+P0f
+<br/>
+is a tool that utilizes an array of sophisticated, purely passive traffic
 fingerprinting mechanisms to identify the players behind any incidental TCP/IP
 communications (often as little as a single normal SYN) without interfering in
 any way.
+<br/>
+https://github.com/p0f/p0f
 <br/><br/>
-TCPDump <br/>
+
+TCPDump 
+<br/>
+Command line, Like wireshark sniffs network and makes pcaps
+<br/>
 https://www.tcpdump.org/ 
 <br/><br/>
+
 RPCDump
 <br/>
 gather data about port 135/msrpc
 <br/>
 https://resources.oreilly.com/examples/9780596510305/tree/master/tools/rpctools
 <br/><br/>
-EtterCap -> Ettercap is a free and open source network security tool for man-in-the-middle attacks on a LAN
+
+EtterCap
+<br/>
+is a free and open source network security tool for man-in-the-middle attacks on a LAN
 <br/>
 https://www.ettercap-project.org/
+
+
+
+
+
+
 
 # wireless hacking
 ### bluetooth tools
 blueview
 <br/>
+is a small utility that runs in the background, and monitor the activity of Bluetooth devices around you. For each detected Bluetooth device, it displays the following information: Device Name, Bluetooth Address, Major Device Type, Minor Device Type, First Detection Time, Last Detection Time, and more
+<br/>
+https://www.nirsoft.net/utils/bluetooth_viewer.html
+<br/><br/>
+
 BTscanner
 <br/>
+is a tool designed specifically to extract as much information as possible from a Bluetooth device without the requirement to pair. A detailed information screen extracts HCI and SDP information, and maintains an open connection to monitor the RSSI and link quality
+<br/>
+https://salsa.debian.org/pkg-security-team/btscanner
+<br/>
+https://www.kali.org/tools/btscanner/
+<br/><br/>
+
 btlejuice
 <br/>
+is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy). It is composed of: an interception core. an interception proxy. a dedicated web interface.
+<br/>
+https://github.com/DigitalSecurity/btlejuice
+<br/><br/>
+
 bluediving
 <br/>
+is a Bluetooth penetration testing suite
+It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has features such as Bluetooth address spoofing, an AT and a RFCOMM socket shell and implements tools like carwhisperer, bss, L2CAP packetgenerator, L2CAP connection resetter, RFCOMM scanner and greenplaque scanning mode (using more than one hci device).
+Programming languages: Perl and C
+<br/>
+http://bluediving.sourceforge.net/
+<br/>
+https://en.kali.tools/all/?tool=142
+<br/><br/>
+
 super bluetooth hack
+<br/>
+<br/>
+<br/><br/>
+
+
+
+
+
+
+
+
 
 # website security
 dirbuster -> site enumerator
+<br/>
+<br/>
 <br/><br/>
+
 owasp Zap -> web vuln testing
+<br/>
+<br/>
 <br/><br/>
+
 WinHTrack -> site cloner
+<br/>
+<br/>
 <br/><br/>
+
 Wfetch -> is a tool that targets websites that have Active Server Pages (ASP) or wireless protocols.
+<br/>
+<br/>
 <br/><br/>
+
 TCH-Hydra -> is a password cracking tool that supports several different protocols.
+<br/>
+<br/>
 <br/><br/>
+
 Immunity CANVAS -> provides an exploit development framework for penetration testers.
+<br/>
+<br/>
 <br/><br/>
+
 Arachni -> is open-source and helps penatration testers evaluate the security of their web applications.
+<br/>
+<br/>
 <br/><br/>
+
 Syhunt Dynamic -> can automate security testing and help to guard web infrastructure against known security threats.
+<br/>
+<br/>
 <br/><br/>
+
 Hackalert -> is a cloud-based subscription service that detects hidden malware in websites and advertisements.
+<br/>
+<br/>
 <br/><br/>
+
 MBSA, or Microsoft Baseline Security Analyzer, -> is a patch management tool that checks for updates to the operating system, database components, and SQL server. It also scans for any errors or vulnerabilities in the configuration settings.
+<br/>
+<br/>
 <br/><br/>
+
 Wikto -> is a security scanner for Windows web servers. It checks for errors in code and monitors HTTP requests and responses.
+<br/>
+<br/>
 <br/><br/>
+
 Brutus -> is a password cracking tool that can make over 50 simultaneous target connections.
+<br/>
+<br/>
 <br/><br/>
+
 COREImpact Pro -> is a penetration testing tool that checks for vulnerabilities in web applications, network systems, wireless networks, mobile devices, and defense systems such as IDS or IPS.
+<br/>
+<br/>
 <br/><br/>
+
 WebScarab -> is a tool for analyzing applications that use HTTP and HTTPS protocols.
+<br/>
+<br/>
 <br/><br/>
+
 Wikto -> is a security scanner for Windows web servers. It checks for errors in code and monitors HTTP requests and responses.
+<br/>
+<br/>
 <br/><br/>
+
 Hackalert -> is a service that detects hidden malware in websites and advertisements.
+<br/>
+<br/>
 <br/><br/>
+
 N-Stalker -> is a suite of assessment checks that can improve the overall security of your web applications. It contains assessment checks for code injection, cross-site scripting, parameter tampering, and web server vulnerabilities
+<br/>
+<br/>
 <br/><br/>
+
 VampireScan -> is a tool that allows users to test their web infrastructure and application for vulnerabilities. It provides insight about addressing risk vulnerabilities on a low, medium, or high scale.
+<br/>
+<br/>
 <br/><br/>
+
 dotDefender -> is a software web application firewall that inspects HTTP and HTTPS traffic. It also detects and blocks SQL injection attacks.
+<br/>
+<br/>
 <br/><br/>
+
 WebInspect -> is a web application security assessment tool that helps identify known and unknown vulnerabilities within the Web Application layer
+<br/>
+<br/>
 <br/><br/>
+
 Netsparker -> runs automated scans looking for vulnerabilities susceptible to SQL injection, cross-site scripting, and remote code injection.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### SQL Injection
 SQL Power Injector tool -> A tool used to find SQL injections on a web page
