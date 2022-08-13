@@ -186,21 +186,34 @@ WinHTrack
 It allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer. HTTrack arranges the original site's relative link-structure. Simply open a page of the "mirrored" website in your browser, and you can browse the site from link to link, as if you were viewing it online
 <br/>
 https://www.httrack.com/
+<br/>
+Android app
+<br/>
+https://play.google.com/store/apps/details?id=com.httrack.android&hl=en_US&gl=US
 <br/><br/>
 
-Wfetch -> is a tool that targets websites that have Active Server Pages (ASP) or wireless protocols.
+Wfetch
 <br/>
+Wfetch is a tool that displays the request and response so that the communication can be easily understood. It can be used to create HTTP requests that test the performance of new Web sites or of Web sites that contain new elements, such as Active Server Pages (ASP) or wireless protocols
 <br/>
+https://download.cnet.com/WFetch/3000-2356_4-10735465.html
 <br/><br/>
 
-TCH-Hydra -> is a password cracking tool that supports several different protocols.
+TCH-Hydra
 <br/>
+Hydra is a parallelized network login cracker built in various operating systems like Kali Linux, Parrot and other major penetration testing environments. Hydra works by using different approaches to perform brute-force attacks in order to guess the right username and password combination
 <br/>
+https://www.cyberpunk.rs/password-cracker-thc-hydra
+<br/>
+https://github.com/vanhauser-thc/thc-hydra
+<br/>
+https://www.kali.org/tools/hydra/
 <br/><br/>
 
 Immunity CANVAS -> provides an exploit development framework for penetration testers.
 <br/>
 <br/>
+https://immunityinc.com/products/canvas/
 <br/><br/>
 
 Arachni -> is open-source and helps penatration testers evaluate the security of their web applications.
@@ -274,6 +287,15 @@ WebInspect -> is a web application security assessment tool that helps identify 
 <br/><br/>
 
 Netsparker -> runs automated scans looking for vulnerabilities susceptible to SQL injection, cross-site scripting, and remote code injection.
+<br/>
+<br/>
+<br/><br/>
+
+Other Web hacking tools
+<br/>
+https://devqa.io/hacking-web-servers-overview/
+<br/>
+https://diarium.usal.es/pmgallardo/2020/11/15/list-of-web-server-attack-tools/
 
 
 
@@ -507,6 +529,8 @@ https://www.cisa.gov/free-cybersecurity-services-and-tools
 https://github.com/rmusser01/Infosec_Reference
 <br/>
 https://code.nsa.gov/
+<br/>
+https://www.theprohack.com/2008/03/download-links-of-hacking-tools.html
   
   
 ### exploit database links
