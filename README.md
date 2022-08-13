@@ -163,19 +163,29 @@ https://diarium.usal.es/pmgallardo/2020/11/02/list-of-bluetooth-hacking-tools/
 
 
 # website security
-dirbuster -> site enumerator
+dirbuster
 <br/>
+is a multi threaded java application designed to brute force directories and files names on web/application servers. Often is the case now of what looks like a web server in a state of default installation is actually not, and has pages and applications hidden within. DirBuster attempts to find these.
 <br/>
+https://www.kali.org/tools/dirbuster/
+<br/>
+https://sourceforge.net/projects/dirbuster/
 <br/><br/>
 
-owasp Zap -> web vuln testing
+owasp Zap
 <br/>
+OWASP ZAP is a dynamic application security testing (DAST) tool for finding vulnerabilities in web applications
 <br/>
+https://owasp.org/www-project-zap/
+<br/>
+https://www.zaproxy.org/download/
 <br/><br/>
 
-WinHTrack -> site cloner
+WinHTrack
 <br/>
+It allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer. HTTrack arranges the original site's relative link-structure. Simply open a page of the "mirrored" website in your browser, and you can browse the site from link to link, as if you were viewing it online
 <br/>
+https://www.httrack.com/
 <br/><br/>
 
 Wfetch -> is a tool that targets websites that have Active Server Pages (ASP) or wireless protocols.
