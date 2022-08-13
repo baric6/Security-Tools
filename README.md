@@ -149,9 +149,9 @@ http://bluediving.sourceforge.net/
 https://en.kali.tools/all/?tool=142
 <br/><br/>
 
-super bluetooth hack
+Other bluetooth tools
 <br/>
-<br/>
+https://diarium.usal.es/pmgallardo/2020/11/02/list-of-bluetooth-hacking-tools/
 <br/><br/>
 
 
