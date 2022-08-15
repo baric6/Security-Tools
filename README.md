@@ -493,7 +493,16 @@ trojan hourse construction kit <br/>
 httprat.exe <br/>
 prorat <br/>
 crypter tool
-  
+
+# malware sandbox tools
+any.run
+<br/>
+is a sandbox that you can run malware and analyze them
+<br/>
+https://any.run/ 
+ 
+ 
+ 
 ### Ransomware
 PSRansom <br/>
 https://github.com/JoelGMSec/PSRansom
