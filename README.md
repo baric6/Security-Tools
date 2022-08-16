@@ -259,7 +259,7 @@ https://sensepost-wikto.software.informer.com/2.1/
 https://sensepost.com/research/wikto
 <br/><br/>
 
-Brutus -> is a password cracking tool that can make over 50 simultaneous target connections.
+Brutus
 <br/>
 In cryptanalysis and computer security, password cracking is the process of recovering passwords from data that have been stored in or transmitted by a computer system. A common approach (brute-force attack) is to try guesses repeatedly for the password and check them against an available cryptographic hash of the password.
 <br/>
@@ -281,29 +281,38 @@ http://dawes.za.net/rogan/webscarab/#current
 https://www.kali.org/tools/webscarab/
 <br/><br/>
 
-N-Stalker -> is a suite of assessment checks that can improve the overall security of your web applications. It contains assessment checks for code injection, cross-site scripting, parameter tampering, and web server vulnerabilities
+(free signup)N-Stalker
 <br/>
+is a suite of assessment checks that can improve the overall security of your web applications. It contains assessment checks for code injection, cross-site scripting, parameter tampering, and web server vulnerabilities
 <br/>
+http://www.nstalker.com/alliance/
 <br/><br/>
 
-VampireScan -> is a tool that allows users to test their web infrastructure and application for vulnerabilities. It provides insight about addressing risk vulnerabilities on a low, medium, or high scale.
+VampireScan
 <br/>
-<br/>
+is a tool that allows users to test their web infrastructure and application for vulnerabilities. It provides insight about addressing risk vulnerabilities on a low, medium, or high scale.
 <br/><br/>
 
-dotDefender -> is a software web application firewall that inspects HTTP and HTTPS traffic. It also detects and blocks SQL injection attacks.
+dotDefender
 <br/>
+is a software web application firewall that inspects HTTP and HTTPS traffic. It also detects and blocks SQL injection attacks.
+web application security solution (a Web Application Firewall, or WAF) that offers strong, proactive security for your websites and web applications. dotDefender can handle . NET Security issues. Enterprise-class security against known and emerging hacking attacks.
 <br/>
+http://www.applicure.com/download-latest
 <br/><br/>
 
-WebInspect -> is a web application security assessment tool that helps identify known and unknown vulnerabilities within the Web Application layer
+(paid)WebInspect
 <br/>
+is a web application security assessment tool that helps identify known and unknown vulnerabilities within the Web Application layer
 <br/>
+https://www.ndm.net/sast/hp-webinspect
 <br/><br/>
 
-Netsparker -> runs automated scans looking for vulnerabilities susceptible to SQL injection, cross-site scripting, and remote code injection.
+(paid)Netsparker
 <br/>
+runs automated scans looking for vulnerabilities susceptible to SQL injection, cross-site scripting, and remote code injection.
 <br/>
+https://www.qbsint.com/netsparker-a-leading-web-application-vulnerability-scanning-solution/
 <br/><br/>
 
 Other Web hacking tools
@@ -325,20 +334,44 @@ https://diarium.usal.es/pmgallardo/2020/11/15/list-of-web-server-attack-tools/
 
 
 ### SQL Injection
-SQL Power Injector tool -> A tool used to find SQL injections on a web page
+SQL Power Injector tool
+<br/>
+A tool used to find SQL injections on a web page
+is an application created in .Net 1.1 that helps the penetration tester to find and exploit SQL injections on a web page.
+<br/>
+http://www.sqlpowerinjector.com/download.htm
 
 # IDS and IPS
 ### IDS
-Snort community <br/>
+Snort community 
+<br/>
+Snort is the foremost Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users.
+<br/>
 https://www.snort.org/
 <br/><br/>
-security Onion <br/>
+
+security Onion
+<br/>
+a free and open platform for threat hunting, network security monitoring, and log management. Security Onion includes best-of-breed free and open tools including Suricata, Zeek, Wazuh, the Elastic Stack and many others.
+<br/>
 https://securityonionsolutions.com/
 <br/><br/>
+
 ### IPS 
-crowdSec -> community driven IPS <br/>
+crowdSec
+<br/>
+is an open-source and collaborative IPS (Intrusion Prevention System) and a security suite.
+It leverages local behavior analysis to create a global IP reputation network.
+<br/>
 https://www.crowdsec.net/
 <br/><br/>
+
+
+
+
+
+
+
 
 # Enumeration
 ### PowerShell
