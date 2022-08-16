@@ -383,75 +383,146 @@ https://www.crowdsec.net/
 
 # Enumeration
 ### PowerShell
-https://ss64.com/nt/net-view.html -> 
-net view <server name> -> shows shared folder of that server
+
+net view <server name>
 <br/>
-https://ss64.com/nt/net-use.html ->
-net use <\\someserver\folder> h: -> maps drive from that server to you
+Displays a list of domains, computers, or resources that are being shared by the specified computer. Used without parameters, net view displays a list of computers in your current domain.
 <br/>
+https://ss64.com/nt/net-view.html
+<br/><br/>
+  
+net use <\\someserver\folder> h:
+<br/>
+Connects a computer to or disconnects a computer from a shared resource, or displays information about computer connections. The command also controls persistent net connections. Used without parameters, net use retrieves a list of network connections.
+<br/>
+https://ss64.com/nt/net-use.html
+  
+  
 ### Windows
-SNscan -> SNscan is a utility that is used to detect SNMP devices that are vulnerable to attacks.
+SNscan 
+<br/>
+is a utility that is used to detect SNMP devices that are vulnerable to attacks.
+A Windows based SNMP detection utility that can quickly and accurately identify SNMP enabled devices on a network.
+<br/>
+https://www.softpedia.com/get/Network-Tools/Network-IP-Scanner/SNScan.shtml
+<br/>
+https://www.scanwith.com/download/SNScan.htm
 
 ### Linux
-Finger -> Using the finger command on Linux machines provides information about a user. When executed,
+Finger
+<br/>
+Using the finger command on Linux machines provides information about a user. When executed,
 it returns information such as the user's home directory,
 login time, idle times, office location, and the last time they received or read mail.
+<br/>
+https://www.geeksforgeeks.org/finger-command-in-linux-with-examples/
 
+  
+  
+  
+  
+  
+  
 # Vuln Scanning
 ### nmap commands
-syn scan<br/>
+syn scan
+<br/>
 nmap -sS 127.0.0.1
 <br/><br/>
-send fragmented packet<br/>
+  
+send fragmented packet
+<br/>
 nmap -f 127.0.0.1
 <br/><br/>
-decoy scan<br/>
+  
+decoy scan
+<br/>
 nmap -D RND:25 127.0.0.1
 <br/><br/>
-make custom packet size<br/>
+
+make custom packet size
+<br/>
 nmap 127.0.0.1 -mtu 128
   
 ### nmap scripts
-syn firewalk<br/>
+syn firewalk
+<br/>
 nmap --script=firewalk 127.0.0.1
 <br/><br/>
-firewall bypass scan<br/>
+
+firewall bypass scan
+<br/>
 nmap --script=firewall-bypass 127.0.0.1
 <br/><br/>
+
 grab http server header  
+<br/>
 nmap --script=http-server-header 127.0.0.1
 <br/><br/>
-grab chrono<br/>
+
+grab chrono
+<br/>
 nmap --script=http-chrono 127.0.0.1
 <br/><br/>
-grab http headers<br/>
+
+grab http headers
+<br/>
 nmap --script=http-headers 127.0.0.1
 <br/><br/>
-grab http errors<br/>
+
+grab http errors
+<br/>
 nmap --script=http-errors 127.0.0.1
 <br/><br/>
-grab malware host<br/>
+
+grab malware host
+<br/>
 nmap --script=http-malware-host 127.0.0.1
 <br/><br/>
-grab comments on page<br/>
+
+grab comments on page
+<br/>
 nmap --script=http-comments-displayer 127.0.0.1
 <br/><br/>
-https://github.com/vulnersCom -> good site for nmap scripts
+
+sites for nmap scripts
+<br/>
+https://github.com/vulnersCom
 <br/><br/>
+
 find devices in promiscuous mode
 <br/>
 https://nmap.org/nsedoc/scripts/sniffer-detect.html
 
+  
+  
+  
+  
+  
+
 ### tools
-GreenBone -> open sourced vuln scanner
+GreenBone
+<br/>
+is the world's most widely used open-source vulnerability management provider. Our products identify security vulnerabilities, assess their risk potential, and recommend remediation actions. This uncovers vulnerabilities before they can be exploited by cyber criminals
 <br/>
 https://www.greenbone.net/en/about-greenbone/
 <br/><br/>
-openVas -> open sourced vuln scanner <br/>
+
+openVas
+<br/>
+is a full-featured vulnerability scanner. Its capabilities include unauthenticated and authenticated testing, various high-level and low-level internet and industrial protocols, performance tuning for large-scale scans and a powerful internal programming language to implement any type of vulnerability test.
+The scanner obtains the tests for detecting vulnerabilities from a feed that has a long history and daily updates. 
 <br/>
 https://www.openvas.org/
 
 
+  
+  
+  
+  
+  
+ 
+  
 # System Hacking
 ### Windows password cracking
 refog keylogger <br/>
