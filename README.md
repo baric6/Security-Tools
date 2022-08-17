@@ -685,3 +685,9 @@ https://packetstormsecurity.com/files/tags/exploit/
 https://securitytrails.com/blog/google-hacking-techniques
 <br/>
 
+### tricks
+LOLBAS
+<br/>
+Living off the Land Binaries, scripts and libraries
+<br/>
+https://lolbas-project.github.io/#
