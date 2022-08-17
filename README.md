@@ -60,12 +60,7 @@ is a free and open-source packet analyzer. It is used for network troubleshootin
 https://www.wireshark.org/download.html
 <br/><br/>
 
-NirSoft
-<br/>
-NirSoft web site provides a unique collection of small and useful freeware utilities
-<br/>
-https://www.nirsoft.net/
-<br/><br/>
+
 
 
 
@@ -660,6 +655,12 @@ PentBox<br/>
 
 
 # Useful tool collection links
+NirSoft
+<br/>
+NirSoft web site provides a unique collection of small and useful freeware utilities
+<br/>
+https://www.nirsoft.net/
+<br/><br/>
 https://www.cisa.gov/free-cybersecurity-services-and-tools
 <br/>
 https://github.com/rmusser01/Infosec_Reference
