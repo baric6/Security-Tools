@@ -520,47 +520,128 @@ https://www.openvas.org/
   
 # System Hacking
 ### Windows password cracking
-refog keylogger <br/>
+refog keylogger
+<br/>
+REFOG Personal Monitor is designed to deal with extended families, but it fits small families just as easy. Allowing you to monitor your children activities remotely over the Internet, REFOG Personal Monitor does not even require your close presence in order to be alerted about suspicious activities of either your children or someone they chat with
+<br/>
 https://www.refog.com/
 <br/><br/>
-(trial)l0phtcrack : password audit tool
+  
+(trial)l0phtcrack
+<br/>
+L0phtCrack, now known as L0phtCrack 6, is a password auditing and recovery tool designed to test password strength. It is sometimes used to retrieve lost Unix and Microsoft Windows passwords through brute-force, dictionary, rainbow tables and hybrid attacks
+<br/>  
+https://ophcrack.sourceforge.io/download.php?type=livecd
+<br/><br/>
 
 cain and able tool <br/>
 https://web.archive.org <br/>
 search: oxid.it/cain.html <br/>
 goto: jan 1 2018 for download
 
+  
+  
+  
+  
+  
+  
 ### linux password cracking
-rtgen(linux) -> Rainbow table cracking
+  
+rtgen(linux)
 <br/>
-medusa : ssh password cracking tool
+The RainbowCrack software cracks hashes by rainbow table lookup. Rainbow tables are ordinary files stored on hard disk.
+The rtgen program generate rainbow tables based on parameters specified by user, and the rtsort program post processing the rainbow tables to enable fast lookup.
+<br/>  
+http://project-rainbowcrack.com/generate.html
 <br/>
-xhydra : ssh password cracking tool
+https://www.kali.org/tools/rainbowcrack/
+<br/><br/>
+  
+  
+medusa
+<br/>
+(ssh)Medusa also helps you perform parallel attacks. If you wish to crack the password of some email account simultaneously then you are able to specify the username list along with the password list.
+<br/>
+https://www.securedyou.com/medusa-free-download-parallel-password-cracker-tool/
+<br/>
+https://www.geeksforgeeks.org/password-cracking-with-medusa-in-linux/
+<br/><br/>
+  
+  
+xhydra
+<br/>
+(ssh)It is a corresponding login cracker that can be used to perform great attacks with numerous protocols. It is a very flexible and fast software in performance. People are also using Hydra to hack Facebook account passwords. The other quality of this tool is very useful and it is about the easy adding of the new modules.
+<br/>
+https://www.geeksforgeeks.org/how-to-install-and-use-hydra-in-linux/
+<br/>
+https://www.securedyou.com/download-thc-hydra-password-cracking-tool-free/
+<br/>
+https://www.kali.org/tools/hydra/
+<br/><br/>
+  
+  
+  
+  
+  
+  
+  
+  
   
 ### AD password spray cracker
-crackmapexec <br/>
+crackmapexec 
+<br/>
+This package is a swiss army knife for pentesting Windows/Active Directory environments.
+From enumerating logged on users and spidering SMB shares to executing psexec style attacks, auto-injecting Mimikatz/Shellcode/DLL’s into memory using Powershell, dumping the NTDS.dit and more.
+Pure Python script
+<br/>
+https://www.kali.org/tools/crackmapexec/
+<br/>
 https://github.com/byt3bl33d3r/CrackMapExec 
+<br/><br/>
 
+  
+  
+  
+  
+  
 ### Priv Escalation
-trinity rescue kit<br/>
-https://trinityhome.org/ -> password help
+  
+trinity rescue kit
+<br/>
+Trinity Rescue Kit or TRK is a free live Linux distribution that aims specifically at recovery and repair operations on Windows machines, but is equally usable for Linux recovery issues. Since version 3.4 it has an easy to use scrollable text menu that allows anyone who masters a keyboard and some English to perform maintenance and repair on a computer, ranging from password resetting over disk cleanup to virus scanning
+<br/>
+https://trinityhome.org/
+<br/>
+https://trinityhome.org/trinity_rescue_kit_download/
 <br/><br/>
-erd commander -> reboot help -> ERD Commander is a tool that was originally developed by Winternals (Windows Sysinternals). 
-Microsoft acquired Winternals and its assets on July 18, 2006. Microsoft included this tool, firstly, in its Microsoft Desktop Optimization Pack 
-(MDOP) and changed its name to Microsoft Diagnostics and Recovery Toolset (DaRT). This tool has been developed further and its latest version is 7.0. 
-Please consider that each version works only with some operating systems. For example, DaRT 5.0 only works with Windpws XP and Windows Server 2003,
-6.0 works with Windows Vista and Windows Server 2008.
+  
+  
+Ophcrack
+<br/>
+Ophcrack is a free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms
+<br/>
+https://www.kali.org/tools/ophcrack/
+<br/>
+https://ophcrack.sourceforge.io/
 <br/><br/>
-Ophcrack <br/>
-https://www.kali.org/tools/ophcrack/-> cracker
-
+  
+  
+  
+  
 ### Rootkit tools
 https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Rootkits.md
-<br/>
+<br/><br/>
+  
 greyfish
 <br/>
-sirefef/zeroaccess
+<br/>
+<br/><br/>
 
+sirefef/zeroaccess
+<br/>
+<br/>
+<br/><br/>
+  
 ### prevent alternet data streams atk
 ADS detecor
 <br/>
