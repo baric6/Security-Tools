@@ -632,36 +632,76 @@ https://ophcrack.sourceforge.io/
 https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Rootkits.md
 <br/><br/>
   
-greyfish
-<br/>
-<br/>
-<br/><br/>
-
-sirefef/zeroaccess
-<br/>
-<br/>
+prevent alternet data streams atk
 <br/><br/>
   
-### prevent alternet data streams atk
-ADS detecor
-<br/>
 LADS
 <br/>
-stream detector
 <br/>
-lns
+https://www.aldeid.com/wiki/LADS#:~:text=LADS%20is%20a%20tool%20developed,with%20another%20copy%20of%20Windows.
+<br/>
 
+<br/><br/>
+  
+stream detector
+<br/><br/>
+
+lns
+<br/><br/>
+
+  
+  
+
+  
+  
 ### stego 
+  
 stegostick
 <br/>
+A Steganographic Tool that lets u hide any file into any file. It is based on Image, Audio, Video Steganography that hides any file or message into an image(BMP,JPG,GIF), Audio/Video(MPG, WAV, etc) or any other file format(PDF,EXE,CHM etc..)
+<br/>
+https://sourceforge.net/projects/stegostick/
+<br/>
+https://stegostick.soft112.com/
+<br/><br/>
+         
 openstego
 <br/>
+OpenStego provides two main functionalities:
+Data Hiding: It can hide any data within a cover file (e.g. images).
+Watermarking (beta): Watermarking files (e.g. images) with an invisible signature. It can be used to detect unauthorized file copying.
+<br/>
+https://www.openstego.com/
+<br/><br/>
+         
 omnihide pro
 <br/>
+OmniHide allows you to hide a file within another file. Any file can be hidden within common image/music/ video/document formats. The output file would work just as the original source file would.
+<br/>
+http://omnihide-pro.findmysoft.com/
+<br/><br/>
+         
 deepsound
 <br/>
+DeepSound is a steganography tool and audio converter that hides secret data into audio files. The application also enables you to extract secret files directly from audio files or audio CD tracks.
+<br/>
+http://jpinsoft.net/deepsound/download.aspx
+<br/><br/>
+         
 spam minic
-
+<br/>
+There are terrific tools (like PGP and GPG) for encrypting your mail. If somebody along the way looks at the mail they can't understand it. But they do know you are sending encrypted mail to your pal.
+<br/>
+https://www.spammimic.com/
+<br/><br/>
+         
+  
+  
+  
+  
+  
+  
+  
 ### stego detection tools
 discover the hiden
 <br/>
