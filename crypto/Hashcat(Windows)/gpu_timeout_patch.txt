@@ -1,0 +1,24 @@
+Ref: https://hashcat.net/wiki/doku.php?id=timeout_patch
+
+Timeout Patch
+---------------------------------
+Note: this applies to windows users only, starting from vista to windows 7, (and server variants).
+
+
+
+General
+---------------------------------
+While running any GPGPU hashcat at extreme settings users may experience crashes and recovery of the GPU(s) through driver reset.
+This is a useful feature to prevent freezes, but not for hashcracking. It is caused by kernel runtimes exceeding 2 seconds.
+
+
+
+Patch
+---------------------------------
+To disable WDDM recovery, create a file called patch.reg, paste the contents of the code there, run as admin, reboot and enjoy!
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
+"TdrLevel"=dword:00000000
+

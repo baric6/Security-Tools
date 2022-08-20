@@ -1,0 +1,23 @@
+Ref: http://www.geeks3d.com/forums/index.php?topic=1528.0
+
+---------------
+
+KB123 - Preview Feature: ATI Stream SDK v2.2 Support For Accessing Additional Physical Memory On The GPU From OpenCL™ Applications
+http://developer.amd.com/support/KnowledgeBase/Lists/KnowledgeBase/DispForm.aspx?ID=123
+
+---------------
+
+This article provides information about the preview feature for accessing additional physical memory on the GPU from OpenCL™ applications in the ATI Stream SDK v2.2.
+
+The ATI Stream SDK v2.2 currently defaults to exposing 50% of the physical GPU memory to OpenCL™ applications. Certain developers may require accessing additional physical memory in order to optimize their applications when running on the GPU.
+
+For developers who wish to experiment with increasing the amount of physical memory that is accessible to their OpenCL™ applications, the default 50% setting can be changed by setting the environment variable GPU_MAX_HEAP_SIZE to the percentage of total GPU memory that should be exposed.
+
+For example, if you wanted to set the exposed GPU physical memory size to 75%, you need to the GPU_MAX_HEAP_SIZE environment variable to 75.
+
+GPU_MAX_HEAP_SIZE must be set to an integer value between 0 and 100, inclusive.
+
+It should be noted that changing the default setting for exposed GPU physical memory to the OpenCL™ application may result in unexpected behavior. This preview feature is provided solely to allow developers to experiment with accessing a larger portion of the GPU physical memory than is normally exposed.
+
+---------------
+
