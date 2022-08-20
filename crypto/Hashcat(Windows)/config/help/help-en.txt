@@ -1,0 +1,74 @@
+﻿Built-in charsets:
+
+?l = abcdefghijklmnopqrstuvwxyz
+?u = ABCDEFGHIJKLMNOPQRSTUVWXYZ
+?d = 0123456789
+?s =  !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+?a = ?l?u?d?s
+?b = 0x00 - 0xff
+?h = 8 bit characters from 0xc0 - 0xff
+?D = 8 bit characters from german alphabet
+?F = 8 bit characters from french alphabet
+?R = 8 bit characters from russian alphabet
+
+-----------------------------------------
+Output file commands
+-----------------------------------------
+
+You can use certain commands in the file output so it auto-generates the output filenames. Here is the 3 you can use:
+
+[m] - This simply inserts the Hash Mode number from hashcat.
+[a] - This simply inserts the Attack Type number from hashcat.
+[w] - This simply inserts the Workload number from hashcat.
+e.g.
+Output: C:\found_[m].txt
+with mode MD5
+Actual: C:\found_0.txt
+
+[InFile] - This simply inserts the entire input filepath.
+e.g.
+Hash file: C:\md5_hashes.txt
+Output: [InFile].out
+Actual: C:\md5_hashes.txt.out
+
+[InFileName] - This simply inserts the filename from the hash file without the file extension. In the example below, the clipboard was used, hence the tmp file.
+e.g.
+Hash file: C:\Users\Owner\AppData\Local\Temp\tmpD2C6.tmp
+Output: C:\[InFilename]_found.txt
+Actual: C:\tmpD2C6_found.txt
+
+[InFileExt] - This simply inserts the filename from the hash file with the file extension. In the example below, the clipboard was used, hence the tmp file.
+e.g.
+Hash file: C:\Users\Owner\AppData\Local\Temp\tmpD2C6.tmp
+Output: C:\[InFilenameExt].out
+Actual: C:\tmpD2C6.txt.out
+
+[InDir] - This simply inserts the directory path from the hash file. Example below is straight attack mode with MD5 -m 0:
+e.g.
+Hash file: C:\Temp\hashes.txt
+Output: [InDir]\found_[a]-[m].txt
+Actual: C:\Temp\found_0-0.txt
+
+-----------------------------------------
+Markov
+-----------------------------------------
+
+When using this dropdown, use 0 for normal / classic brute-force attack. Changing this value depends on the charset your brute-forcing. Here are some examples below:
+
+Mask Used: ?d?l
+Charset Length: 36
+Markov Range: 1 to 36
+Best Markov number based on time and success rate: 22
+
+Mask Used: ?d?l?u
+Charset Length: 62
+Markov Range: 1 to 62
+Best Markov number based on time and success rate: 40
+
+Mask Used: ?d?l?u?s OR ?a
+Charset Length: 95
+Markov Range: 1 to 95
+Best Markov number based on time and success rate: 62
+
+You can change these number as you feel necessary, higher mean more success BUT slower, lower means it's faster but has less success rate.
+

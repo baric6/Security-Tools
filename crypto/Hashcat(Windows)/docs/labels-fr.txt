@@ -1,0 +1,134 @@
+﻿// Labels in Hashcat
+lblHashFileCPU = Fichier de Hashs:
+btnClipCPU = Presse-papiers
+lblSeparatorCPU = Separateur:
+chkRemoveCPU = Supprimer les hashs trouvés
+lblSessionIDCPU = Session ID:
+chkPotCPU  = Désactiver le fichier pot
+lblModeCPU = Mode:
+lblHashTypeCPU = Type de hash:
+chkSaltsCPU = Grain de Sels:
+grpSaltsCPU = Grain de Sels
+chkRulesCPU = Règles:
+grpRulesCPU = Règles
+chkGenRulesCPU = Générer des régles:
+grpToggleCaseCPU = Flip Caste / Table à appliquer
+grpPasswdLenCPU = Longueur Mots de passe
+lblToggleLenCPU = Longueur:
+lblPasswdLenCPU = Longueur:
+grpWordlistsCPU = Dictionnaires
+grpCharsetsCPU = Jeux de caractères
+grpTableLookupCPU = Table à appliquer
+lblTableCPU = Table:
+lblWordlist1CPU = Dictionnaire 1:
+lblWordlist2CPU = Dictionnaire 2:
+lblCharsetCPU = Jeux de Caractères:
+chkOutputCPU = Fichier de Sortie:
+lblFormatCPU = Format:
+lblThreadsCPU = CPU Threads:
+lblSegmentsCPU = Segments:
+chkSaltHexCPU = Prendre les Grain de Sels en hexa
+chkCharHexCPU = Prendre les jeux de caractères en hexa
+lblBinaryCPU = Binaire:
+
+// Labels in oclHashcat-plus
+lblHashFilePlus = Fichier de Hashs:
+btnClipPlus = Presse-papiers
+lblSeparatorPlus = Separateur:
+chkRemovePlus = Supprimer les hashs trouvés
+chkPotPlus = Désactiver le fichier pot
+chkIgnoreUsersPlus = Ignorer noms d'utilisateurs
+lblModePlus = Mode:
+lblHashTypePlus = Type de hash:
+grpRulesPlus = Règles
+chkRules1Plus = Règles:
+chkRules2Plus = Règles:
+chkRules3Plus = Règles:
+chkRules4Plus = Règles:
+chkGenRulesPlus = Générer régles:
+grpLengthPlus = Longueur Mots de passe
+lblLengthPlus = Longueur:
+chkIncrementPlus = Mode Incrémental
+grpGPUPlus = GPU Options
+lblGPUAccel = Accélération:
+lblGPULoops = boucles:
+lblGPUAbort = Abandon °C:
+lblGPURetain = Conserver °C:
+lblGPUDevices = Choix GPU:
+lblGPUMarkov = Markov:
+grpWordlistsPlus = Dictionnaires
+lblWordlist1Plus = Dictionnaire 1:
+lblWordlist2Plus = Dictionnaire 2:
+chkOutputPlus = Fichier de sortie:
+lblFormatPlus = Format:
+chkWarningsPlus = Ignorer les alertes (--force)
+chkSaltHexPlus = Prendre les Grain de Sels en hexa
+chkCharHexPlus = Prendre les jeux de caractères en hexa
+lblBinaryPlus = Binaire:
+grpCharsetsPlus = Choix Tables de Caractères
+chkChars1Plus = Tables Car 1:
+chkChars2Plus = Tables Car 2:
+chkChars3Plus = Tables Car 3:
+chkChars4Plus = Tables Car 4:
+lblMaskPlus = Masque:
+lblLeftRulePlus = Règle Gauche:
+lblRightRulePlus = Règle Droite:
+
+// Labels in oclHashcat-lite
+lblHashLite = Hash:
+lblSeparatorLite = Separateur:
+lblHashTypeLite = Type de Hashs:
+grpCharsetsLite = Choix des tables de Caractères
+chkChars1Lite = Tables Car 1:
+chkChars2Lite = Tables Car 2:
+chkChars3Lite = Tables Car 3:
+chkChars4Lite = Tables Car 4:
+lblMaskLite = Masque:
+grpLengthLite = Longueur Mots de passe
+lblLengthLite = Longueur:
+grpGPULite = GPU Options
+lblGPUAccelLite = Accélération:
+lblGPULoopsLite = Boucles:
+lblGPUAbortLite = Abandon °C:
+lblGPURetainLite = Conserver °C:
+lblGPUDevicesLite = Choix GPU:
+lblGPUMarkovLite = Markov:
+grpPasswordLite = Options des mots de passe
+lblSkipLite = Passer:
+lblLimitLite = Limite:
+chkOutputLite = Fichier de Sortie:
+lblFormatLite = Format:
+chkSaltHexLite = Prendre les Grain de Sels en hexa
+chkCharHexLite = Prendre le jeux de caractères en hexa
+lblBinaryLite = Binaire:
+
+// Lables in Wordlists
+lblWordlistsWL = Dictionnaires:
+lblConfigsWL = Configurations:
+btnSaveWL = Sauver
+btnDelWL = Effacer
+lwDictsName = Nom
+lwDictsPath = Chemin
+lwDictsSize = Taille
+lblShortcuts = Raccourcis:[LF][LF]Ctrl + Up[LF]Ctrl + Dn[LF]Ctrl + A[LF]Del
+btnRemoveWL = Enlever
+btnRemoveAllWL = Tout Enlever
+btnAddWL = Ajouter Dictionnaires...
+
+// Lables in Commands
+btnGenCPU = Générer
+btnRunCPU = Lancer
+btnGenPlus = Générer
+btnRunPlus = Lancer
+btnGenLite = Générer
+btnRunLite = Lancer
+btnBenchLite = Benchmark
+
+// Labels in Tabs
+tabHelp = Aide
+tabAbout = A Propos de...
+tabWordlists = Dictionnaires & Markov
+tabCommands = Commandes
+
+// Other
+btnClearMRU = Clear All MRU

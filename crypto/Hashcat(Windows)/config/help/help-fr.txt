@@ -1,0 +1,67 @@
+﻿Tables de Caractères intégrés:
+
+?l = abcdefghijklmnopqrstuvwxyz
+?u = ABCDEFGHIJKLMNOPQRSTUVWXYZ
+?d = 0123456789
+?s =  !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+?a = ?l?u?d?s
+?b = 0x00 - 0xff
+?h = 8 bit characters from 0xc0 - 0xff
+?D = 8 bit characters from german alphabet
+?F = 8 bit characters from french alphabet
+?R = 8 bit characters from russian alphabet
+
+-----------------------------------------
+Output file commands
+-----------------------------------------
+
+Vous pouvez utiliser certaines commandes dans le fichier de sortie et il génère automatiquement les noms des fichiers de sortie. Voici la 3, vous pouvez utiliser:
+
+[m] - Cela permet d'insérer simplement le nombre de type d'attaque hashcat.
+[a] - Simplement insérer un numéro pour hashcat.
+e.g.
+Fichier de sortie: C:\found_[HashType].txt
+Avec un type MD5
+Cela donne: C:\found_0.txt
+
+[InFile] - Tout simplement insérer le chemin entier
+e.g.
+Fichier de hashs: C:\md5_hashes.txt
+Fichier de sortie: [InFile].out
+Cela donne: C:\md5_hashes.txt.out
+
+[InFilename] - Cela permet d'insérer simplement le nom du fichier à partir du fichier de hashs sans l'extension de fichier. Dans l'exemple ci-dessous, le presse-papiers a été utilisé, d'où le fichier tmp.
+e.g.
+Fichiers de hashs: C:\Users\Owner\AppData\Local\Temp\tmpD2C6.tmp
+Fichier de sortie: C:\[InFilename]_found.txt
+Cela donne: C:\tmpD2C6_found.txt
+
+[InFilenameExt] - Cela permet d'insérer simplement le nom du fichier à partir du fichier de hashs avec l'extension de fichier. Dans l'exemple ci-dessous, le presse-papiers a été utilisé, d'où le fichier tmp.
+e.g.
+Fichier de hashs: C:\Users\Owner\AppData\Local\Temp\tmpD2C6.tmp
+Fichier de sortie: C:\[InFilenameExt].out
+Cela donne: C:\tmpD2C6.txt.out
+
+-----------------------------------------
+Markov
+-----------------------------------------
+
+Lorsque vous utilisez cette liste déroulante, utilisez 0 pour normal c'est à dire une attaque par brute de force. La modification de cette valeur dépend du jeu de caractères de votre brute de force. Voici quelques exemples ci-dessous:
+
+Masque Utilisé: ?d?l
+Espace du jeu de caractères: 36
+Espace pour Markov: 1 to 36
+Le Meilleur indice pour Markov basé sur le temps avec un bon taux de réussite: 22
+
+Masque Utilisé: ?d?l?u
+Espace du jeu de caractères: 62
+Espace pour Markov: 1 to 62
+Le Meilleur indice pour Markov basé sur le temps avec un bon taux de réussite: 40
+
+Masque Utilisé: ?d?l?u?s OR ?a
+Espace du jeu de caractères: 95
+Espace pour Markov: 1 to 95
+Le Meilleur indice pour Markov basé sur le temps avec un bon taux de réussite: 62
+
+Vous pouvez modifier ces indices si vous le sentez nécessaire, supérieur signifie plus de succès mais plus lent, moyen inférieur, c'est plus rapide, mais a un taux de réussite inférieur.
+

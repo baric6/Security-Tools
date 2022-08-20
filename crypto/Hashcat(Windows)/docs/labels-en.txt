@@ -1,0 +1,134 @@
+﻿// Labels in Hashcat
+lblHashFileCPU = Hash File:
+btnClipCPU = Clipboard
+lblSeparatorCPU = Separator:
+chkRemoveCPU = Remove found hashes
+lblSessionIDCPU = Session ID:
+chkPotCPU  = Disable Pot File
+lblModeCPU = Mode:
+lblHashTypeCPU = Hash Type:
+chkSaltsCPU = Salts:
+grpSaltsCPU = Salts
+chkRulesCPU = Rules:
+grpRulesCPU = Rules
+chkGenRulesCPU = Generate Rules:
+grpToggleCaseCPU = Toggle-Case / Table-Lookup
+grpPasswdLenCPU = Password Length
+lblToggleLenCPU = Length:
+lblPasswdLenCPU = Length:
+grpWordlistsCPU = Wordlists
+grpCharsetsCPU = Character Sets
+grpTableLookupCPU = Table-Lookup
+lblTableCPU = Table:
+lblWordlist1CPU = Wordlist Left:
+lblWordlist2CPU = Wordlist Right:
+lblCharsetCPU = Charset:
+chkOutputCPU = Output:
+lblFormatCPU = Format:
+lblThreadsCPU = CPU Threads:
+lblSegmentsCPU = Segments:
+chkSaltHexCPU = Assume salt given in hex
+chkCharHexCPU = Assume charset given in hex
+lblBinaryCPU = Binary:
+
+// Labels in oclHashcat-plus
+lblHashFilePlus = Hash File:
+btnClipPlus = Clipboard
+lblSeparatorPlus = Separator:
+chkRemovePlus = Remove found hashes
+chkPotPlus = Disable Pot File
+chkIgnoreUsersPlus = Ignore Usernames
+lblModePlus = Mode:
+lblHashTypePlus = Hash Type:
+grpRulesPlus = Rules
+chkRules1Plus = Rules:
+chkRules2Plus = Rules:
+chkRules3Plus = Rules:
+chkRules4Plus = Rules:
+chkGenRulesPlus = Generate Rules:
+grpLengthPlus = Password Length
+lblLengthPlus = Length:
+chkIncrementPlus = Increment Mode
+grpGPUPlus = GPU Options
+lblGPUAccel = Accel:
+lblGPULoops = Loops:
+lblGPUAbort = Abort °C:
+lblGPURetain = Retain °C:
+lblGPUDevices = Devices:
+lblGPUMarkov = Markov:
+grpWordlistsPlus = Wordlists
+lblWordlist1Plus = Wordlist Left:
+lblWordlist2Plus = Wordlist Right:
+chkOutputPlus = Output:
+lblFormatPlus = Format:
+chkWarningsPlus = Ignore Warnings (--force)
+chkSaltHexPlus = Assume salt given in hex
+chkCharHexPlus = Assume charset given in hex
+lblBinaryPlus = Binary:
+grpCharsetsPlus = Character Sets
+chkChars1Plus = Charset 1:
+chkChars2Plus = Charset 2:
+chkChars3Plus = Charset 3:
+chkChars4Plus = Charset 4:
+lblMaskPlus = Mask:
+lblLeftRulePlus = Left Rule:
+lblRightRulePlus = Right Rule:
+
+// Labels in oclHashcat-lite
+lblHashLite = Hash:
+lblSeparatorLite = Separator:
+lblHashTypeLite = Hash Type:
+grpCharsetsLite = Character Sets
+chkChars1Lite = Charset 1:
+chkChars2Lite = Charset 2:
+chkChars3Lite = Charset 3:
+chkChars4Lite = Charset 4:
+lblMaskLite = Mask:
+grpLengthLite = Password Length
+lblLengthLite = Length:
+grpGPULite = GPU Options
+lblGPUAccelLite = Accel:
+lblGPULoopsLite = Loops:
+lblGPUAbortLite = Abort °C:
+lblGPURetainLite = Retain °C:
+lblGPUDevicesLite = Devices:
+lblGPUMarkovLite = Markov:
+grpPasswordLite = Password Options
+lblSkipLite = Skip:
+lblLimitLite = Limit:
+chkOutputLite = Output:
+lblFormatLite = Format:
+chkSaltHexLite = Assume salt given in hex
+chkCharHexLite = Assume charset given in hex
+lblBinaryLite = Binary:
+
+// Lables in Wordlists
+lblWordlistsWL = Wordlists:
+lblConfigsWL = Configs:
+btnSaveWL = Save
+btnDelWL = Del
+lwDictsName = Name
+lwDictsPath = Path
+lwDictsSize = Size
+lblShortcuts = Shortcuts:[LF][LF]Ctrl + Up[LF]Ctrl + Dn[LF]Ctrl + A[LF]Del
+btnRemoveWL = Remove
+btnRemoveAllWL = Remove All
+btnAddWL = Add Wordlists...
+
+// Lables in Commands
+btnGenCPU = Generate
+btnRunCPU = Run
+btnGenPlus = Generate
+btnRunPlus = Run
+btnGenLite = Generate
+btnRunLite = Run
+btnBenchLite = Benchmark
+
+// Labels in Tabs
+tabHelp = Help
+tabAbout = About
+tabWordlists = Wordlists & Markov
+tabCommands = Commands
+
+// Other
+btnClearMRU = Clear All MRU

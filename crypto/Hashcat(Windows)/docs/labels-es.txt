@@ -1,0 +1,134 @@
+﻿// Labels in Hashcat
+lblHashFileCPU = Hash del Archivo:
+btnClipCPU = Portapapeles
+lblSeparatorCPU = Separador:
+chkRemoveCPU = Remover hashes encontrados
+lblSessionIDCPU = ID de la sesión:
+chkPotCPU  = Deshabilitar archivo Pot
+lblModeCPU = Modo:
+lblHashTypeCPU = Tipo de Hash:
+chkSaltsCPU = Salts:
+grpSaltsCPU = Salts
+chkRulesCPU = Reglas:
+grpRulesCPU = Reglas
+chkGenRulesCPU = Generar Reglas:
+grpToggleCaseCPU = Toggle-Caso / Tabla-Lookup
+grpPasswdLenCPU = Largo de la contraseña
+lblToggleLenCPU = Largo:
+lblPasswdLenCPU = Largo:
+grpWordlistsCPU = Diccionarios
+grpCharsetsCPU = Juego de caracteres
+grpTableLookupCPU = Tabla-Lookup
+lblTableCPU = Tabla:
+lblWordlist1CPU = Diccionarios 1:
+lblWordlist2CPU = Diccionarios 2:
+lblCharsetCPU = Caracteres:
+chkOutputCPU = Salida:
+lblFormatCPU = Formato:
+lblThreadsCPU = Temas CPU:
+lblSegmentsCPU = Segmentos:
+chkSaltHexCPU = Asumir que el salt esta en hexadecimal
+chkCharHexCPU = Asumir que los caracteres están en hexadecimal
+lblBinaryCPU = Binario:
+
+// Labels in oclHashcat-plus
+lblHashFilePlus = Hash del Archivo:
+btnClipPlus = Portapapeles
+lblSeparatorPlus = Separador:
+chkRemovePlus = Remover hashes encontrados
+chkPotPlus = Deshabilitar archivo Pot
+chkIgnoreUsersPlus = Ignorar nombres de usuario
+lblModePlus = Modo:
+lblHashTypePlus = Tipo de Hash:
+grpRulesPlus = Reglas
+chkRules1Plus = Reglas:
+chkRules2Plus = Reglas:
+chkRules3Plus = Reglas:
+chkRules4Plus = Reglas:
+chkGenRulesPlus = Generar Reglas:
+grpLengthPlus = Largo de la Contraseña / Inicio
+lblLengthPlus = Largo:
+chkIncrementPlus = Modo Incremental
+grpGPUPlus = Opciones de GPU
+lblGPUAccel = Acel:
+lblGPULoops = Bucles:
+lblGPUAbort = Abortar:
+lblGPURetain = Retener:
+lblGPUDevices = Dispositivos:
+lblGPUMarkov = Markov:
+grpWordlistsPlus = Diccionarios
+lblWordlist1Plus = Diccionarios 1:
+lblWordlist2Plus = Diccionarios 2:
+chkOutputPlus = Salida:
+lblFormatPlus = Formato:
+chkWarningsPlus = Ignorar Advertencias (--force)
+chkSaltHexPlus = Asumir que el salt esta en hexadecimal
+chkCharHexPlus = Asumir que los caracteres están en hexadecimal
+lblBinaryPlus = Binario:
+grpCharsetsPlus = Juego de caracteres a medida
+chkChars1Plus = Caracteres 1:
+chkChars2Plus = Caracteres 2:
+chkChars3Plus = Caracteres 3:
+chkChars4Plus = Caracteres 4:
+lblMaskPlus = Mascara:
+lblLeftRulePlus = Regla Izquierda:
+lblRightRulePlus = Regla Derechа:
+
+// Labels in oclHashcat-lite
+lblHashLite = Hash:
+lblSeparatorLite = Separador:
+lblHashTypeLite = Tipo de Hash:
+grpCharsetsLite = Juego de caracteres a medida
+chkChars1Lite = Caracteres 1:
+chkChars2Lite = Caracteres 2:
+chkChars3Lite = Caracteres 3:
+chkChars4Lite = Caracteres 4:
+lblMaskLite = Mascara:
+grpLengthLite = Largo de la Contraseña
+lblLengthLite = Largo:
+grpGPULite = Opciones de GPU
+lblGPUAccelLite = Acel:
+lblGPULoopsLite = Bucles:
+lblGPUAbortLite = Abortar:
+lblGPURetainLite = Retener:
+lblGPUDevicesLite = Dispositivos:
+lblGPUMarkovLite = Markov:
+grpPasswordLite = Opciones de Contraseña
+lblSkipLite = Brincar:
+lblLimitLite = Limite:
+chkOutputLite = Salida:
+lblFormatLite = Formato:
+chkSaltHexLite = Asumir que el salt esta en hexadecimal
+chkCharHexLite = Asumir que los caracteres están en hexadecimal
+lblBinaryLite = Binario:
+
+// Lables in Wordlists
+lblWordlistsWL = Diccionarios:
+lblConfigsWL = Configs:
+btnSaveWL = Guardar
+btnDelWL = Borrar
+lwDictsName = Nombre
+lwDictsPath = Path
+lwDictsSize = Tamaño
+lblShortcuts = Atajos:[LF][LF]Ctrl + Up[LF]Ctrl + Dn[LF]Ctrl + A[LF]Del
+btnRemoveWL = Remover
+btnRemoveAllWL = Remover Todo
+btnAddWL = Anadir Diccionarios...
+
+// Lables in Commands
+btnGenCPU = Generar
+btnRunCPU = Correr
+btnGenPlus = Generar
+btnRunPlus = Correr
+btnGenLite = Generar
+btnRunLite = Correr
+btnBenchLite = Benchmark
+
+// Labels in Tabs
+tabHelp = Ayuda
+tabAbout = Sobre
+tabWordlists = Diccionarios & Markov
+tabCommands = Comandos
+
+// Other
+btnClearMRU = Clear All MRU

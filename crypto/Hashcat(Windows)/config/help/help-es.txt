@@ -1,0 +1,66 @@
+﻿Caracteres incorporados:
+
+?l = abcdefghijklmnopqrstuvwxyz
+?u = ABCDEFGHIJKLMNOPQRSTUVWXYZ
+?d = 0123456789
+?s =  !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+?a = ?l?u?d?s
+?b = 0x00 - 0xff
+?h = 8 bit characters from 0xc0 - 0xff
+?D = 8 bit characters from german alphabet
+?F = 8 bit characters from french alphabet
+?R = 8 bit characters from russian alphabet
+
+-----------------------------------------
+Comandos del archivo de salida
+-----------------------------------------
+
+Usted puede usar ciertos comandos en el archivo de salida y así se auto-generan los nombres de salida de los archivos. Aquí están los 4 que usted puede usar:
+
+[m] - Esto inserta simplemente el número del tipo de ataque de haschat.
+[a] - Este simplemente inserta el numero del modo desde haschat.
+Ejemplo:
+Salida: C:\found_[HashType].txt
+Con el modo MD5
+Actual: C:\found_0.txt
+
+[InFile] – este simplemente  inserta la ubicación entera del archivo de entrada.
+Ejemplo:
+ Archivo de Hash: C:\md5_hashes.txt
+Salida: [InFile].out
+Actual: C:\md5_hashes.txt.out
+
+[InFilename] – este simplemente inserta el nombre del archivo desde el archivo de hash sin la extensión del archivo. En el ejemplo de abajo, el portapapeles fue usado, por lo tanto es un archivo tmp.
+Ejemplo:
+Archivo de Hash: C:\Users\Owner\AppData\Local\Temp\tmpD2C6.tmp
+Salida: C:\[InFilename]_found.txt
+Actual: C:\tmpD2C6_found.txt
+
+[InFilenameExt] – Este simplemente inserta el nombre del archivo del archivo hash con la extensión del archivo. En el ejemplo de abajo, el portapapeles fue usado, por lo tanto es un archivo tmp.
+Ejemplo:
+Archivo hash: C:\Users\Owner\AppData\Local\Temp\tmpD2C6.tmp
+Salida: C:\[InFilenameExt].out
+Actual: C:\tmpD2C6.txt.out
+
+-----------------------------------------
+Markov
+-----------------------------------------
+
+Cuando use este desplegable, use 0 para un ataque normal / clásico de fuerza bruta. Cambiando este valor depende del mapa de caracteres que este bruteando. Aquí hay unos ejemplos
+
+Mascara usada: ?d?l
+Longitud de caracteres: 36
+Rango Markov : 1 to 36
+El mejor número de Markov basado en el tiempo y la tasa de éxito: 22
+
+Mascara usada: ?d?l?u
+Longitud de caracteres: 62
+Markov Range: 1 hasta 62
+El mejor número de Markov basado en el tiempo y la tasa de éxito: 40
+
+Mascara usada: ?d?l?u?s O ?a
+Longitud de caracteres: 95
+Rango Markov: 1 hasta 95
+El mejor número de Markov basado en el tiempo y la tasa de éxito: 62
+
+Usted puede cambiar este número como sienta necesario, un valor alto significa más éxito PERO es mas lento,  un valor bajo es más rápido pero hay una menor tasa de éxito.

@@ -1,0 +1,134 @@
+﻿// Labels in Hashcat
+lblHashFileCPU = хэш файл:
+btnClipCPU = буфер обмена
+lblSeparatorCPU = сепаратор:
+chkRemoveCPU = Удалить найдены хэши 
+lblSessionIDCPU = ID сессии:
+chkPotCPU  = Отключить Pot файл
+lblModeCPU = режим:
+lblHashTypeCPU = тип хэша:
+chkSaltsCPU = соли:
+grpSaltsCPU = соли
+chkRulesCPU = правилы:
+grpRulesCPU = правилы
+chkGenRulesCPU = генерировать правилы:
+grpToggleCaseCPU = Переключить-Слова / Таблица-поиск
+grpPasswdLenCPU = Длина пароля
+lblToggleLenCPU = Длина:
+lblPasswdLenCPU = Длина:
+grpWordlistsCPU = Словари
+grpCharsetsCPU = Набор символов
+grpTableLookupCPU = Таблица-поиск
+lblTableCPU = Таблица:
+lblWordlist1CPU = Словари 1:
+lblWordlist2CPU = Словари 2:
+lblCharsetCPU = символы:
+chkOutputCPU = выход:
+lblFormatCPU = Формат:
+lblThreadsCPU = формат-нитями:
+lblSegmentsCPU = Cегменты:
+chkSaltHexCPU = Предполагать что соли приведены в HEX
+chkCharHexCPU = Предполагать что Набор символов приведен в HEX
+lblBinaryCPU = бинарный:
+
+// Labels in oclHashcat-plus
+lblHashFilePlus = хэш файл:
+btnClipPlus = буфер обмена
+lblSeparatorPlus = сепаратор:
+chkRemovePlus = Удалить найдены хэши
+chkPotPlus = Отключить Pot файл
+chkIgnoreUsersPlus = Игнорировать имена пользователя 
+lblModePlus = режим:
+lblHashTypePlus = тип хэша:
+grpRulesPlus = правилы
+chkRules1Plus = правилы:
+chkRules2Plus = правилы:
+chkRules3Plus = правилы:
+chkRules4Plus = правилы:
+chkGenRulesPlus = генерировать правилы:
+grpLengthPlus = Длина пароля / начало
+lblLengthPlus = Длина:
+chkIncrementPlus = Режим приращение
+grpGPUPlus = Опции GPU
+lblGPUAccel = ускорение:
+lblGPULoops = Петли:
+lblGPUAbort = выкинуть °C:
+lblGPURetain = удерживать °C:
+lblGPUDevices = устройства:
+lblGPUMarkov = Марков:
+grpWordlistsPlus = Словари
+lblWordlist1Plus = Словари 1:
+lblWordlist2Plus = Словари 2:
+chkOutputPlus = Выход:
+lblFormatPlus = Формат:
+chkWarningsPlus = Игнорировать предупреждения (--force)
+chkSaltHexPlus = Предполагать что соли приведены в HEX
+chkCharHexPlus = Предполагать что Набор символов приведен в HEX
+lblBinaryPlus = бинарный:
+grpCharsetsPlus = Набор символов
+chkChars1Plus = символы 1:
+chkChars2Plus = символы 2:
+chkChars3Plus = символы 3:
+chkChars4Plus = символы 4:
+lblMaskPlus = Маск:
+lblLeftRulePlus = Левое Правило :
+lblRightRulePlus = Правое Правило:
+
+// Labels in oclHashcat-lite
+lblHashLite = хэш:
+lblSeparatorLite = сепаратор:
+lblHashTypeLite = тип хэша:
+grpCharsetsLite = Набор символов
+chkChars1Lite = символы 1:
+chkChars2Lite = символы 2:
+chkChars3Lite = символы 3:
+chkChars4Lite = символы 4:
+lblMaskLite = Mascara:
+grpLengthLite = Длина пароля
+lblLengthLite = Длина:
+grpGPULite = Опции GPU
+lblGPUAccelLite = ускорение:
+lblGPULoopsLite = Петли:
+lblGPUAbortLite = выкинуть:
+lblGPURetainLite = удерживать:
+lblGPUDevicesLite = устройства:
+lblGPUMarkovLite = Марков:
+grpPasswordLite = Параметры пароля
+lblSkipLite = пропустить:
+lblLimitLite = ограничение:
+chkOutputLite = Выход:
+lblFormatLite = Формат:
+chkSaltHexLite = Предполагать что соли приведены в HEX
+chkCharHexLite = Предполагать что Набор символов приведен в HEX
+lblBinaryLite = бинарный:
+
+// Lables in Wordlists
+lblWordlistsWL = Словари:
+lblConfigsWL = конфиг:
+btnSaveWL = Сохранить
+btnDelWL = Удалить
+lwDictsName = Название
+lwDictsPath = Путь
+lwDictsSize = Размер
+lblShortcuts = Ярлыки:[LF][LF]Ctrl + Up[LF]Ctrl + Dn[LF]Ctrl + A[LF]Del
+btnRemoveWL = Удалить
+btnRemoveAllWL = Удалить все
+btnAddWL = Добавить словари...
+
+// Lables in Commands
+btnGenCPU = генерировать
+btnRunCPU = Запускать
+btnGenPlus = генерировать
+btnRunPlus = Запускать
+btnGenLite = генерировать
+btnRunLite = Запускать
+btnBenchLite = эталонный тест
+
+// Labels in Tabs
+tabHelp = помощь
+tabAbout = О Hascat
+tabWordlists = Словари & Марков
+tabCommands = Команды
+
+// Other
+btnClearMRU = Очистить все MRU
