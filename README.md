@@ -710,8 +710,20 @@ virtual steganographic laboratory
 
 stegDetect
 <br/>
+is an automated tool for detecting steganographic content in images. It is capable of detecting several different steganographic methods to embed hidden information in JPEG images.
 <br/>
+https://stegdetect.apponic.com/
+<br/>
+https://github.com/abeluck/stegdetect
 <br/><br/>
+  
+  
+  
+  
+  
+  
+  
+  
   
 # Malware
 JPS virus maker 3.0 
