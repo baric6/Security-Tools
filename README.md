@@ -627,30 +627,7 @@ https://ophcrack.sourceforge.io/
   
   
   
-  
-### Rootkit tools
-https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Rootkits.md
-<br/><br/>
-  
-prevent alternet data streams atk
-<br/><br/>
-  
-LADS
-<br/>
-<br/>
-https://www.aldeid.com/wiki/LADS#:~:text=LADS%20is%20a%20tool%20developed,with%20another%20copy%20of%20Windows.
-<br/>
-
-<br/><br/>
-  
-stream detector
-<br/><br/>
-
-lns
-<br/><br/>
-
-  
-  
+ 
 
   
   
@@ -711,19 +688,19 @@ Discover the Hidden is our most affordable steganography investigative solution.
 https://www.wetstonetech.com/products/discover-the-hidden-steganography-detection/
 <br/><br/>
 
-stegohunt
+(paid)stegohunt
 <br/>
+is an industry-leading steganography program discovery tool and steganalysis suite. StegoHunt™ effectively detects the presence of both data hiding programs and the files in which data may have been hidden 
 <br/>
+https://www.wetstonetech.com/products/stegohunt-steganography-detection/
 <br/><br/>
 
-gargoyle
-<br/>
-<br/>
-<br/><br/>
 
-stegalyzerss
+stegalyzeras
 <br/>
+Steganography Analyzer Artifact Scanner, or StegAlyzerAS, is computer forensics software made by Backbone Security's Steganography Analysis and Research Center
 <br/>
+https://stegalyzeras.software.informer.com/3.9/
 <br/><br/>
 
 virtual steganographic laboratory
@@ -860,6 +837,14 @@ https://www.kali.org/tools/binwalk/
 <br/>
 https://github.com/ReFirmLabs/binwalk
 <br/><br/>
+  
+gargoyle
+<br/>
+Gargoyle MP is designed to simplify your breach and malware triage investigation and incident response activities. Gargoyle MP enables users to perform a rapid search for known contraband, hostile programs and lost or leaked corporate assets.
+<br/>
+https://www.wetstonetech.com/products/gargoyle-malware-detection-dfir/
+<br/><br/>
+
   
 # Honey Pot tools
 KFSensor
