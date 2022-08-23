@@ -703,24 +703,65 @@ https://www.spammimic.com/
   
   
 ### stego detection tools
-discover the hiden
+(paid)discover the hiden
 <br/>
+A framework for finding stego
+Discover the Hidden is our most affordable steganography investigative solution. This software tool provides the user with the ability to conduct a quick search on a computer for known Steganography and Encryption programs. This tool was designed to be a swift and easy scan that requires minimal technical knowledge to use. Discover the Hidden utilizes a combination of program traits, Fibonacci and MD5 hashes to discover and confirm the existence of advanced data hiding programs.
+<br/>
+https://www.wetstonetech.com/products/discover-the-hidden-steganography-detection/
+<br/><br/>
+
 stegohunt
 <br/>
+<br/>
+<br/><br/>
+
 gargoyle
 <br/>
+<br/>
+<br/><br/>
+
 stegalyzerss
 <br/>
+<br/>
+<br/><br/>
+
 virtual steganographic laboratory
 <br/>
+<br/>
+<br/><br/>
+
 stegDetect
+<br/>
+<br/>
+<br/><br/>
   
 # Malware
-JPS virus maker 3.0 <br/>
-trojan hourse construction kit <br/>
-httprat.exe <br/>
-prorat <br/>
+JPS virus maker 3.0 
+<br/>
+<br/>
+<br/><br/>
+
+trojan hourse construction kit 
+<br/>
+<br/>
+<br/><br/>
+
+httprat.exe <
+<br/>
+<br/>
+<br/><br/>
+
+prorat <
+<br/>
+<br/>
+<br/><br/>
+
 crypter tool
+<br/>
+<br/>
+<br/><br/>
+
 
 # malware sandbox tools
 any.run
@@ -732,47 +773,120 @@ https://any.run/
  
  
 ### Ransomware
-PSRansom <br/>
+PSRansom 
+<br/>
+<br/>
 https://github.com/JoelGMSec/PSRansom
+<br/><br/>
+
+
 
 ### Botnet tools
 Shark
 <br/>
+<br/>
+<br/><br/>
+
 Plugbot
 <br/>
+<br/>
+<br/><br/>
+
 Poison Ivy
 <br/>
+<br/>
+<br/><br/>
+
 Jolt2
 <br/>
+<br/>
+<br/><br/>
+
 trin00
 <br/>
+<br/>
+<br/><br/>
+
 targa
 <br/>
+<br/>
+<br/><br/>
+
 LOIC
+<br/>
+<br/>
+<br/><br/>
 
 
 # Reverse Engineering
-DNspy <br/>
+DNspy
+<br/>
+<br/>
 https://github.com/dnSpy/dnSpy -> helps you RE .net assemblies 
 <br/><br/>
+
 IDA -> Binary Reverse Engineering
 <br/>
+<br/>
+<br/><br/>
+
 Ghydra -> NSA Binary Reverse Engineering
+<br/>
+<br/>
+<br/><br/>
 
 # forensics
-volatility -> reads snapshots of ram/voluntary memory<br/>
+volatility 
+<br/>
+reads snapshots of ram/voluntary memory
+<br/>
 https://www.volatilityfoundation.org/
 <br/><br/>
+
 Autospy -> open img/iso files of operating systems <br/>
 https://www.sleuthkit.org/index.php
+<br/>
+<br/>
+<br/><br/>
+
+
+binWalk
+<br/> 
+is a tool for searching a given binary image for embedded files and executable code. Specifically, it is designed for identifying files and code embedded inside of firmware images.
+<br/>
+good for getting binary blobs from images and extract data from images
+<br/>
+https://www.kali.org/tools/binwalk/
+<br/>
+https://github.com/ReFirmLabs/binwalk
 <br/><br/>
   
 # Honey Pot tools
-KFSensor<br/>
-HoneyBot<br/>
-HoneyDrive<br/>
-HoneyD<br/>
-PentBox<br/>
+KFSensor
+<br/>
+<br>
+<br/><br/>
+
+HoneyBot
+<br/>
+<br>
+<br/><br/>
+
+HoneyDrive
+<br/>
+<br>
+<br/><br/>
+
+HoneyD
+<br/>
+<br>
+<br/><br/>
+
+PentBox
+<br/>
+<br>
+<br/><br/>
+
 
 
 # Useful tool collection links
@@ -781,7 +895,7 @@ NirSoft
 NirSoft web site provides a unique collection of small and useful freeware utilities
 <br/>
 https://www.nirsoft.net/
-<br/><br/>
+<br/>
 https://www.cisa.gov/free-cybersecurity-services-and-tools
 <br/>
 https://github.com/rmusser01/Infosec_Reference
