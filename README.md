@@ -810,18 +810,24 @@ LOIC
 # Reverse Engineering
 DNspy
 <br/>
+helps you RE .net assemblies 
+a popular debugger and . NET assembly editor used to debug, modify, and decompile . NET programs. Cybersecurity researchers commonly use this program when analyzing . NET malware and software.
 <br/>
-https://github.com/dnSpy/dnSpy -> helps you RE .net assemblies 
+https://github.com/dnSpy/dnSpy
 <br/><br/>
 
-IDA -> Binary Reverse Engineering
+IDA
 <br/>
+The Interactive Disassembler is a disassembler for computer software which generates assembly language source code from machine-executable code. It supports a variety of executable formats for different processors and operating systems.
 <br/>
+https://hex-rays.com/ida-free/#download
 <br/><br/>
 
-Ghydra -> NSA Binary Reverse Engineering
+Ghydra
 <br/>
+Ghidra is a free and open source reverse engineering tool developed by the National Security Agency of the United States. The binaries were released at RSA Conference in March 2019
 <br/>
+https://github.com/NationalSecurityAgency/ghidra  
 <br/><br/>
 
 # forensics
