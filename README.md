@@ -391,6 +391,7 @@ net use <\\someserver\folder> h:
 Connects a computer to or disconnects a computer from a shared resource, or displays information about computer connections. The command also controls persistent net connections. Used without parameters, net use retrieves a list of network connections.
 <br/>
 https://ss64.com/nt/net-use.html
+<br/><br/>
 
 net users /domain
 <br>
@@ -406,11 +407,11 @@ Dumps all groups in the domain
 https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc754051(v=ws.11)
 <br/><br/>
 
-net group <group name>
+net group groupName
 <br>
 This can only be ran on the domain controller
 Dumps user from said group name
-<br/><br/>
+<br/>
 
 ### other net commands
 https://www.cyberithub.com/27-useful-net-command-examples-to-manage-windows-resources/
