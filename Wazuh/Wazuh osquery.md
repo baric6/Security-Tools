@@ -10,5 +10,5 @@ https://documentation.wazuh.com/current/user-manual/reference/ossec-conf/wodle-o
 1. keep default value to yes 
 2. remove default value on windows
 what is happening is the instance is running twice
-![wazah.PNG](../../_resources/wazah.PNG)
+![wazah.PNG](../_resources/wazah.PNG)
 #
