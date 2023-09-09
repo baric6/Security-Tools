@@ -14,7 +14,7 @@ Gui agent
 https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html
 #
 shows a example of agent config from group menu
-![wazuh conf.PNG](../../_resources/wazuh%20conf.PNG)
+![wazuh conf.PNG](../_resources/wazuh%20conf.PNG)
 
 
 
@@ -26,6 +26,6 @@ cd /var/ossec/bin/
 ./manage_agents
 ```
 
-![002.png](../../_resources/002.png)
+![002.png](../_resources/002.png)
 
 
